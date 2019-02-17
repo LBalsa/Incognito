@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a7b0fd71d9d5a947a714b4005217b27, type: 3}
+  m_Name: PatientFX
+  m_EditorClassIdentifier: 
+  bye: {fileID: 0}
+  complain: {fileID: 0}
+  eat: {fileID: 0}
+  hello: {fileID: 0}
+  tap: {fileID: 8300000, guid: d788ee1f93542d448a46d909861a0c4a, type: 3}
+  pee: {fileID: 8300000, guid: c677d2130a68a1c409250bf8ced9a7d0, type: 3}
+  whistle: {fileID: 0}
+  yawn: {fileID: 0}
+  whatTheHell: {fileID: 0}
+  beating: {fileID: 8300000, guid: c1bc1e0f3a2b1c34f88da6eb1f34092f, type: 3}
+  sreams: {fileID: 0}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e3ac000f343f9e74b8756e04342a8c4e
+timeCreated: 1520889296
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dawning of a New Day
+  fontNames:
+  - Dawning of a New Day
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70eb1d0ff970f064c8b70699fce6d708, type: 3}
+  m_Name: Report Database
+  m_EditorClassIdentifier: 
+  entries:
+  - title: Abigail Caperton
+    subtitle: 
+    main: "Incident report\r\nStillwater Mental Institution\r\n(to be completed by
+      staff within 12 hours of incident/accident)\r\n\r\nIncident Date\u2026\u2026\u2026\u202625th
+      May 1986        Incident Time\u2026\u2026\u2026\u202611:00\r\nInjured Person
+      Name\u2026\u2026\u2026.. Abigail Caperton\r\nMale/Female\u2026\u2026\u2026\u2026Female
+      \                 Date of Birth\u2026\u2026\u2026\u202611th September 1964\r\n\r\nDetails
+      of the incident\u2026\u2026\u2026\u2026 During recreational time, Miss Abigail
+      Caperton had some sort of psychotic break, and started punching the wall and
+      speaking some Latin words. As guard Frances approached the patient, he grabbed
+      her by the arm. I was watching from a distance but I could tell he was using
+      some unnecessary force. Miss Abigail was struggling and I decided to approach
+      to help. as I was on my way, I noticed Abigail struggling even more and without
+      any apparent reason, guard Frances slapped Abigail. When I confronted him he
+      said she had bitten him, which I haven\u2019t seen and when I examined his hand
+      I couldn\u2019t find any bite marks. After this incident, I took Abigail to
+      her room, gave her some medicines and left her to rest.\r\n\r\nDoes injury require
+      hospital/physician\u2026\u2026\u2026\u2026No\r\nHospital Name\u2026\u2026\u2026\u2026\r\nHospital
+      Adress\u2026\u2026\u2026\u2026\r\nHospital Phone Number\u2026\u2026\u2026\u2026\r\n\r\nPrepared
+      By ............Sophie Andrews                  Date \u2026\u2026\u2026\u2026
+      25th May 1986\r\nName of Approved By\u2026\u2026\u2026\u2026                        Date
+      \u2026\u2026\u2026\u2026"
+  - title: Christian Shade
+    subtitle: 
+    main: "Incident report\r\nStillwater Mental Institution\r\n(to be completed by
+      staff within 12 hours of incident/accident)\r\n\r\nIncident Date\u2026\u2026\u2026\u2026
+      24th  April 1994       Incident Time\u2026\u2026\u2026\u202607:52h\r\nInjured
+      Person Name\u2026\u2026\u2026.. Christian Edward Shade\r\nMale/Female\u2026\u2026\u2026\u2026Male
+      \      Date of Birth\u2026\u2026\u2026\u202629th September 1963\r\n\r\nDetails
+      of the incident\u2026\u2026\u2026\u2026 I was walking down the hall when I heard
+      muffled screams coming from the East Wing toilets. Once I arrived I was mortified
+      to see the patient Christian E. Shade lying bloody on the floor, and guard Roderick
+      Campbell covering the patient\u2019s mouth with his hand. \r\nGuard Roderick\u2019s
+      baton was on the floor, also bloody, and when I confronted him about what happened
+      he told me he heard some screams and found the patient on the floor, saying
+      that he might have slipped on the wet floor. When confronted about being muffling
+      the patient\u2019s screams he said he didn\u2019t want to bring attention on
+      themselves, which I found suspicious. Guard Roderick was aware that he was breaking
+      the protocol by not have called a nurse immediately.  When I approached the
+      victim, I could clearly see bruises consistent with the Guard\u2019s baton format.
+      \ Christian was screaming in pain, and when I asked him what happened he told
+      me he went to the toilet when Guard Roderick approached him and hit his head
+      on the sink. Christian fell on the floor and the guard beat him repeatedly with
+      his baton on the head, torso and chest. \r\n\r\nDoes injury require hospital/physician\u2026\u2026\u2026\u2026Yes
+      \   \r\nHospital Name\u2026\u2026\u2026\u2026 Angelwing Hospital Centre\r\nHospital
+      Adress\u2026\u2026\u2026\u2026 47 Gloster St, Bolton BL2 2BH, UK 01204\r\nHospital
+      Phone Number\u2026\u2026\u2026\u2026 01204 619450\r\n\r\nPreparedBy ............
+      Amelia Mortimer               Date \u2026\u2026\u2026\u2026 24th April 1994\r\nName
+      of Approved By\u2026\u2026\u2026\u2026                        Date \u2026\u2026\u2026\u2026\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+  - title: Frankie Jenkins
+    subtitle: 
+    main: "Incident report\r\nStillwater Mental Institution\r\n(to be completed by
+      staff within 12 hours of incident/accident)\r\n\r\nIncident Date\u2026\u2026\u2026\u202627th
+      july 1954                  Incident Time\u2026\u2026\u2026\u202612:45\r\nInjured
+      Person Name\u2026\u2026\u2026.. Frankie Jenkins\r\nMale/Female\u2026\u2026\u2026\u2026Male
+      \      Date of Birth\u2026\u2026\u2026\u202619th October 1900\r\n\r\nDetails
+      of the incident\u2026\u2026\u2026\u2026 Lunchtime was almost at the end, when
+      Mr. Ollie Tucker started a fight with Mr. Frankie Jenkins. As there was not
+      any nurse present, I decided to end up that fight. Guard Morris was present
+      and only got into action after Mr. Tucker jab a fork on Mr. Jenkins left eye.
+      When I questioned them both about what happened they were confused and couldn\u2019t
+      give a proper motive, which makes me believe they were having some kind of delusion.
+      \ \r\n\r\nDoes injury require hospital/physician\u2026\u2026\u2026\u2026Yes
+      \   \r\nHospital Name\u2026\u2026\u2026\u2026 Angelwing Hospital Centre\r\nHospital
+      Adress\u2026\u2026\u2026\u2026 47 Gloster St, Bolton BL2 2BH, UK 01204\r\nHospital
+      Phone Number\u2026\u2026\u2026\u2026 01204 619450\r\n\r\nPreparedBy ............
+      \ Ariella Hurst    Position: cook        Date \u2026\u2026\u2026\u2026 27th
+      July 1954\r\nName of Approved By\u2026\u2026\u2026\u2026                                      Date
+      \u2026\u2026\u2026\u2026\r"
+  - title: Jessie Watson
+    subtitle: 
+    main: "Incident report\r\nStillwater Mental Institution\r\n(to be completed by
+      staff within 12 hours of incident/accident)\r\n\r\nIncident Date\u2026\u2026\u2026\u202619th
+      November 1956      Incident Time\u2026\u2026\u2026\u202600:20\r\nInjured Person
+      Name\u2026\u2026\u2026.. Jessie Watson\r\nMale/Female\u2026\u2026\u2026\u2026Female
+      \                 Date of Birth\u2026\u2026\u2026\u202618th February 1929\r\nDetails
+      of the incident\u2026\u2026\u2026\u2026 At 00:10, during my shift, I noticed
+      the door of room EW 05 was open. I gave 10 minutes, considering the possibility
+      that the patient had gotten up to use the toilet. Then I realized it was taking
+      too much time.\r\nI then decided to check the toilets, and gave the notice to
+      my colleague to stay aware and check if the patient hadn\u2019t gone outside
+      the building.\r\nI went to the ladies room, and for my surprise it was empty.
+      Starting to believe that Miss Watson escaped, I went to the men\u2019s toilet
+      and found the patient unconscious on the floor. She had bruises as she has been
+      beaten. I tried calling her name, she looked at me, gasping for air, I tried
+      to lift her but she fainted. I immediately called Nurse Gibson and an ambulance.
+      Later on we were notified that the patient had entered a coma state.\r\n\r\nDoes
+      injury require hospital/physician\u2026\u2026\u2026\u2026yes\r\nHospital Name\u2026\u2026\u2026\u2026
+      Angelwing Hospital Centre \r\nHospital Address\u2026\u2026\u2026\u202647 Gloster
+      St, Bolton BL2 2BH, UK 01204 \r\nHospital Phone Number\u2026\u2026\u2026\u202601204
+      619450 \r\n\r\nPrepared By ............ Gabriel Harrolds              Date \u2026\u2026\u2026\u202619th
+      November 1956\r\nName of Approved By\u2026\u2026\u2026\u2026Angus Ferguson   Date
+      \u2026\u2026\u2026\u202620th November 1956"
+  - title: Lana Wright
+    subtitle: 
+    main: "Incident report\r\nStillwater Mental Institution \r\n     (to be completed
+      by staff within 12 hours of incident/accident)\r\n\r\nIncident Date\u2026\u2026\u2026\u2026
+      18th March 1987       Incident Time\u2026\u2026\u2026\u202615:30\r\nInjured
+      Person Name\u2026\u2026\u2026..Lana Wright\r\nMale/Female\u2026\u2026\u2026\u2026Female
+      \      Date of Birth\u2026\u2026\u2026\u202614th November 1942\r\nDetails of
+      the incident\u2026\u2026\u2026\u2026 During snack time, I noticed something
+      about Patient number 5, Lana Wright, was not right. She had dilated pupils,
+      barely eating and shaking. I approached the patient and I was able to see she
+      was covered in sweat. Once I spoke with her, I immediately recognized the symptoms\u2026
+      she had been using drugs. She couldn\u2019t stop talking about the green elephant
+      that was about to smash me if I didn\u2019t move immediately. My theory was
+      confirmed when I noticed marks of injection on Lana\u2019s arm. Next to this
+      mark was a bruise, almost as if she was forced to be injected. I spoke with
+      the guards that assured me there were no drugs on the patient\u2019s room. \r\n\r\nDoes
+      injury require hospital/physician\u2026\u2026\u2026\u2026  Yes \r\nHospital
+      Name\u2026\u2026\u2026\u2026 Angelwing Hospital Centre\r\nHospital Adress\u2026\u2026\u2026\u2026
+      47 Gloster St, Bolton BL2 2BH, UK 01204\r\nHospital Phone Number\u2026\u2026\u2026\u2026
+      01204 619450\r\n\r\nPrepared By \u2026\u2026\u2026\u2026Brianna Marston              Date
+      \u2026\u2026\u2026\u202618th March 1987 \r\nName of Approved By\u2026\u2026\u2026\u2026
+      \                       Date \u2026\u2026\u2026\u2026\r"
+  - title: Ruby Moore
+    subtitle: 
+    main: "Incident report\r\nStillwater Mental Institution\r\n(to be completed by
+      staff within 12 hours of incident/accident)\r\n\r\nIncident Date\u2026\u2026\u2026\u202629th
+      August 1986          Incident Time\u2026\u2026\u2026\u202602:00 am \r\nInjured
+      Person Name\u2026\u2026\u2026.. Ruby Moore\r\nMale/Female\u2026\u2026\u2026\u2026Female
+      Date of Birth\u2026\u2026\u2026\u202623rd February 1954\r\n\r\nDetails of the
+      incident\u2026\u2026\u2026\u2026 During my shift, I noticed one of the guards
+      was not present. I dismissed it, thinking he had gone to the toilet. I went
+      to check on Mr. Christian Shade and give him his medicines when I heard someone
+      screaming. I ran towards the Central Wing of the institution, and noticed it
+      came from room CW-09, where Miss Moore was in. I approached the door to find
+      the patient lying naked on the floor. As I tried to understand what happened,
+      the patient starting avoiding any kind of physical contact. As I found some
+      blood on the floor and couldn\u2019t see where it came from, I called the hospital.\r\nDoes
+      injury require hospital/physician\u2026\u2026\u2026\u2026Yes\r\nHospital Name\u2026\u2026\u2026\u2026Angelwing\r\nHospital
+      Address\u2026\u2026\u2026\u2026 \r\nHospital Phone Number\u2026\u2026\u2026\u2026
+      \r\n\r\nPrepared By ............Sophie Andrews Date \u2026\u2026\u2026\u2026
+      25th May 1986\r\n\r\nName of Approved By\u2026\u2026\u2026\u2026 Date \u2026\u2026"
+  - title: Tobias Alston
+    subtitle: 
+    main: "Incident report\r\nStillwater Mental Institution\r\n(to be completed by
+      staff within 12 hours of incident/accident)\r\n\r\nIncident Date\u2026\u2026\u2026\u2026
+      07th  January 1985          Incident Time\u2026\u2026\u2026\u202601:52h \r\nInjured
+      Person Name\u2026\u2026\u2026..  Tobias Alston\r\nMale/Female\u2026\u2026\u2026\u2026
+      \ Male                     Date of Birth\u2026\u2026\u2026\u202604th June 1934\r\n\r\nDetails
+      of the incident\u2026\u2026\u2026\u2026 During my night shift, I noticed one
+      of the patients, more specifically Mr. Tobias Alston, was indisposed. As I heard
+      him screaming, I ran towards his room to find him curled up on the floor, scared
+      and covered in sweat. I approached  him and  tried to get him up but it felt
+      like he couldn\u2019t move, seemed trying to avoid \u201Cflying objects\u201D
+      and seemed to be having respiratory problems, showing signs of hallucinations.
+      I checked for his blood pressure while calling the Angelwing Hospital Centre.
+      At 02:30 the patient went on the ambulance and left Stillwater.\r\n\r\nDoes
+      injury require hospital/physician\u2026\u2026\u2026\u2026 yes\r\nHospital Name\u2026\u2026\u2026\u2026
+      Angelwing Hospital Centre\r\nHospital Address\u2026\u2026\u2026\u2026 47 Gloster
+      St, Bolton BL2 2BH, UK 01204\r\nHospital Phone Number\u2026\u2026\u2026\u2026
+      01204 619450\r\n\r\nPreparedBy ............Ellise Murray          Date \u2026\u2026\u2026\u202607th
+      January 1985\r\nName of Approved By\u2026\u2026\u2026\u2026                        Date
+      \u2026\u2026\u2026\u2026"
+  - title: Dear Diary
+    subtitle: 
+    main: "18th March 1987\r\nDear Diary, \r\nAnother day in Hell. I barely slept
+      last night. The girl next door was screaming throughout the night and those
+      stupid pigs went to her room just to admire the show they created\u2026\r\nPoor
+      Lana\u2026 fighting so hard against her drug addiction to be injected against
+      her will by some idiotic guards. I wanted to stop them but I couldn\u2019t do
+      much. They would have beaten me. I decided to talk with Nurse Brianna but I
+      don\u2019t really think she\u2019s going to believe me. No one does. If you\u2019re
+      diagnosed as a delusional person no one will believe you. No matter how hard
+      you try telling the truth. Even you diary, might think I\u2019m making all of
+      this up. I\u2019m not.\\\r\nThose freaking bastards\u2026 They listen to every
+      therapy session, they get to know your weaknesses and they will use them against
+      you. Lana\u2019s weakness were drugs\u2026\\\r\nI saw them Yesterday inside
+      therapy room 2\u2026 they were listening to Nurse Mortimer\u2019s motivational
+      speech.\r\nThey know our secrets, they know how to make you feel in hell. They
+      know my secret\u2026 my hell is yet to come\u2026\r\n\t\t\t\t\t\t\t\t   A.James\r\n"
+  - title: Dear Diary
+    subtitle: 
+    main: "14th April 1987\r\nDear Diary,\r\nIt\u2019s been a long journey in this
+      place. I\u2019ve seen so many bad things happening to others and now\u2026 I
+      think my \u201Chell\u201D has just arrived.\r\nYesterday, one of the guards
+      came to Christian\u2019s cell, or as they like to call it, room, and as I noticed
+      him I walked out of my room and followed him. \r\nAs I spent a lot of time watching
+      the terrors they cause some patients, I was able to recognize Guard Oliverson
+      approaching Christian\u2019s bed and grab his baton. Christian woke up on the
+      first strike and was so confused and scared, he started screaming. I was unable
+      to move my feet, petrified watching that horror scene\u2026 \r\nAs Christian
+      started yelling, Oliverson started muffling his creams with a pillow. By this
+      time, I was totally unaware that someone was standing behind me. I can\u2019t
+      remember much, I never got to see his face\u2026 The only thing I remember is
+      feeling something hitting my head. \r\nThe only thing that\u2019s left of last
+      night is this terrible headache. I already know what is going to happen next\u2026
+      I would rather die, than having them terrifying me. I don\u2019t think they
+      will have such mercy for me\u2026 dear diary, this might me my last sane entry.\r\n\t\t\t\t\t\t\t\t\tA.James"
+  - title: Dear Diary
+    subtitle: 
+    main: "13th september 1987\r\nDear diary,\r\nI think they finally left me alone.
+      They spent the past weeks \u201Ctorturing\u201D me. It didn\u2019t had any kind
+      of physical abuse involved\u2026 it was far worst. During weeks they got into
+      my head. They controlled me. I think they drugged me and made me have those
+      nightmares again. I dreamt about war, about all my ex comrades, all the blood\u2026
+      all the suffering in the battlefield\u2026 the people that died on my watch\u2026
+      but if you think that\u2019s bad\u2026 think about dreaming it when you are
+      awake\u2026\r\nThe nurses couldn\u2019t understand what was happening to me.
+      I was losing a battle against myself over and over again when I had already
+      been under control. My body is a mess right now. I lost a few days of sleep;
+      I would hurt myself to make those memories stop.\r\nThe guards stopped coming
+      to my cell 2 days ago, right after the nurse found me trying to hang myself\u2026
+      in my defense, I needed those memories to stop. Now I\u2019m on the Suicidal
+      program\u2026not that I need it but at least I get to forget about this last
+      weeks.\r\nI could easily turn their secrets public but now that they know me
+      and I know what they are capable of, it\u2019s better to stay low.\r\nPerhaps
+      they are just making me think it stopped so they can come back while I\u2019m
+      unaware\u2026\r\nI just hope they don\u2019t come back with those terrible memories\u2026.\r\nA.\tJames\r\n"
+  - title: Dear Diary
+    subtitle: 
+    main: "Monday, 12th May 1987\r\nDear Diary,\r\n\r\nThey still think I\u2019m crazy.
+      No matter what I say, no matter what I do, they don\u2019t pay me attention\u2026
+      All the complaints, all the clues I left behind\u2026 nobody believes me.  They
+      think I\u2019m a joke.  \r\nI know what they do when no one is watching. I know
+      all the suffering they\u2019ve been causing\u2026 one of us even died\u2026
+      \r\n I know how some of us got sick\u2026 one of the guards poisoned us\u2026
+      I don\u2019t know his name, to be honest these guards all look like monkeys
+      with batons to me but anyways, I saw him sneak into the kitchen and dropped
+      something in our food. At first I thought it was just some spice but after some
+      of us got sick, I knew something was off..\r\nOnce again I tried to tell the
+      director but who would believe a lunatic\u2026 they have been mistreating us
+      and in the end, I am the bad guy\u2026 how ironic. Let me tell you something\u2026
+      I entered Dr. \u201Cexpensive suit\u201D office and found some incident reports.
+      He knows what\u2019s happening in this place, but I believe he doesn\u2019t
+      care. Who would care about a bunch of lunatics anyway? \r\nI am not done with
+      this dear diary! I will fight and one day people will believe me. They will
+      see me as the Stillwater Mental Asylum Hero.\r\nNow I have to go, they are coming
+      with my medicines.\r\n\t\t\t\t\t\t\t\tA.Jame"
+  - title: Death Certificate
+    subtitle: 
+    main: "Death Certificate\r\nDr. Gilbert A. Barrett\r\nDate 08th January 1985\r\n\r\nThis
+      is to certify that the records on my office show that Mr./Ms/Mrs \u2026\u2026\u2026......Tobias
+      Bollock Alston \u2026\u2026.............................\r\nDied at time\u2026\u2026\u202603:10AM\u2026\u2026.
+      On the  day \u2026\u202608th ................. of the month\u2026\u2026\u2026\u2026\u2026\u2026.January\u2026..
+      \u2026\u2026\u2026\u2026..and year\u2026\u2026\u20261985\r\nGender\u2026\u2026\u2026\u2026\u2026Male\r\nAge\u2026\u2026\u2026\u2026\u2026\u2026.51\r\nCause
+      of death\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026Hallucinogen
+      overdose (Salvia divinorium)\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\nMarital
+      Status\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.Widower\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\r\n\r\nI
+      have here unto affixed my signature alongside a witness on 08th January 1985\r\n\r\nWe
+      are issuing this certificate on the specific request of Dr. Angus Montgomery
+      (Stillwater Mental Asylum director) without accepting any liability on behalf
+      of this certificate or part of this on our organization/company.\r\n\r\n"

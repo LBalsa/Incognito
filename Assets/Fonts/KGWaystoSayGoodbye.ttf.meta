@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 45f0d37ddf5a9d44395f06e9c730408a
+timeCreated: 1520889296
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG Ways to Say Goodbye
+  fontNames:
+  - KG Ways to Say Goodbye
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

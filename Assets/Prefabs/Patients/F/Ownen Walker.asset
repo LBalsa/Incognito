@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a676a89b98a2434b81bd3f72b86d6c6, type: 3}
+  m_Name: Ownen Walker
+  m_EditorClassIdentifier: 
+  patientNumber: 8
+  motiveOfAdmission: Tourette Syndrome
+  description: His conservative parent's couldn't bear that their son made weird noises
+    and kept shrugging, after no heavy hand cured him, they decided he was mad.
+  pr: {fileID: 11400000, guid: 636e54dae41e6e0488ff0ffd8eb3ac95, type: 2}
